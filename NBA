@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>NBA</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <iframe src="https://docs.google.com/spreadsheets/d/18ljI7oycz43glxGus91i_wxKrKUKmUGDYFXEWo4hqL8/edit#gid=46448315"
+    width="800" height="600"></iframe>
+
+
+
+
+</body>
+
+</html>
